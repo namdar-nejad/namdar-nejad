@@ -36,4 +36,4 @@
  -->
  
 [linkedin]: https://www.linkedin.com/in/namdar-nejad-1bb28819b/
-[email]: mailto:namdarnejad@gmail.com
+[email]: mailto:namdar.nejad@mail.mcgill.ca
