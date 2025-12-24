@@ -1,29 +1,3 @@
-## Hey there, I'm Namdar 
-
-[<img align="left" alt="Namdar | McGill" width="24px" src="https://pbs.twimg.com/profile_images/949117835745177600/ye610j9M_400x400.jpg" />][mcgill]
-
-[mcgill]: https://www.mcgill.ca 
-
-#### Honours Software Engineering @ McGill University '23
-
-<!-- 
-[<img align="left" alt="Namdar | Moss" width="24px" src="https://pbs.twimg.com/profile_images/1580584497057341441/7t6FJPGs_400x400.jpg" />][moss]
-
-[moss]: https://moss.social/
-
-#### I'm also leading the data projects @ [moss](https://www.moss.social)
-
-
-
-[<img align="left" alt="Namdar | Panagora" width="24px" src="https://media.licdn.com/dms/image/C4D0BAQHiLaY4AZEBQw/company-logo_200_200/0/1625160299360?e=1683158400&v=beta&t=Uys5f8T5xG360YgoZZJPzihOgfJCIiA3wcgsRUPJHz4" />][panagora]
-
-[panagora]: https://www.panagora.com/
--->
-#### I'm currently working as a researcher on the Systematic Fixed Income team at Man Numeric
-
-
-<!-- ### Currently Interning in the Equity Data Science Team @ PanAgora Asset Management -->
-
 ### Connect with me:
 
 [<img align="left" alt="Namdar | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
